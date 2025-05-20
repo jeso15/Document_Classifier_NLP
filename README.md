@@ -1,5 +1,5 @@
 ## The goal of this Project is to classify documents in a corpus. I will train a variety of linear models and 
-evaluate each one using 5-fold cross-validation. Using my best performing model, I will run inference on a test set and submit the predicted labels.
+evaluate each one using 5-fold cross-validation. Using my best performing model, I will run inference on a test set and show the predicted labels.
 
 Dataset description:
 The dataset contains five categories (sport, business, politics, entertainment, tech). The task is to classify documents to one of these five categories. I will be provided with the following datasets:
